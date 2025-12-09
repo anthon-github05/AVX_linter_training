@@ -23,7 +23,7 @@ module.exports = class CartItem {
         this.price = price;
     }
 
-    get articleId() {
+    get articleIdd() {
         //TODO Implement this method
         return this.#ArticleId;
 
